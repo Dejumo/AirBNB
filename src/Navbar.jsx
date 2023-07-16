@@ -9,7 +9,7 @@ function Navbar() {
                     <button className="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navig" aria-controls="navbarTogglerDemo02" aria-expanded="false"  aria-label="Toggle navigation">
                         <span className=" btn navbar-toggler-icon"></span>
                     </button>
-                    <a className="navbar-brand" href="www.tomiaffar.com">d<span className="span-h">Haus.</span></a>
+                    <a className="navbar-brand" href="www.Dejumo.com">D<span className="span-h">ejumo.</span></a>
                     <div className="collapse navbar-collapse" id="navig">
                         <Navlinks />
                     </div>
